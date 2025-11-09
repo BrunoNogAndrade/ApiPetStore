@@ -1,4 +1,4 @@
-📊 Nome do Projeto - Automação de API
+📊 Automação de API Pet Store
 
 
 
