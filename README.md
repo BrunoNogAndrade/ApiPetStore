@@ -2,7 +2,11 @@
 
 
 <img align="center" alt="-Java" height="48" width="58" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg">
-
+https://img.shields.io/badge/Java-17+-red?logo=openjdk
+https://img.shields.io/badge/RestAssured-5.3.0-blue?logo=rest
+https://img.shields.io/badge/TestNG-7.4.0-green?logo=testng
+https://img.shields.io/badge/Maven-3.8+-orange?logo=apache-maven
+https://img.shields.io/badge/GitHub-Repository-lightgrey?logo=github
 
 Projeto de automação de testes de API desenvolvido com RestAssured para validar endpoints e funcionalidades do sistema PetStore.
 
