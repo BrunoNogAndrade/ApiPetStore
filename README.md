@@ -17,3 +17,41 @@ Projeto de automação de testes de API desenvolvido com RestAssured para valida
     Maven 3.8+
 
     Allure Reports (para relatórios)
+
+📁 Estrutura do Projeto
+
+src/test/java/
+├── config/
+│   ├── TestConfig.java
+│   └── Environment.java
+├── models/
+│   ├── request/
+│   │   ├── UserRequest.java
+│   │   └── LoginRequest.java
+│   └── response/
+│       ├── UserResponse.java
+│       └── ErrorResponse.java
+├── services/
+│   ├── UserService.java
+│   └── AuthService.java
+├── tests/
+│   ├── UserTests.java
+│   └── AuthTests.java
+└── utils/
+    ├── TestDataGenerator.java
+    └── FileReader.java
+
+src/test/resources/
+├── test-data/
+│   ├── users/
+│   └── products/
+├── config/
+│   └── environment.properties
+└── suite/
+    └── testng.xml
+
+⚙️ Pré-requisitos
+
+Java JDK 17 ou superior
+Maven 3.8 ou superior
+Git
